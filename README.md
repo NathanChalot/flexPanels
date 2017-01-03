@@ -6,7 +6,9 @@ Second project of [Javascript 30 days challenge](https://javascript30.com/) from
 
 
 ###TODO
-
+- stack horizontally in responsive mobile mode
+- add touch event
+- dismiss open clas when click on an other element previously opened ?
 
 ##notions
 - flexboxes
