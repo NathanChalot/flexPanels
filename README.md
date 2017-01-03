@@ -9,3 +9,4 @@ Second project of [Javascript 30 days challenge](https://javascript30.com/) from
 
 
 ##notions
+- flexboxes
